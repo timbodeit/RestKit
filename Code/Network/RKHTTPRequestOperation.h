@@ -18,8 +18,7 @@
 //  limitations under the License.
 //
 
-#import <AFNetworking/AFHTTPClient.h>
-#import <AFNetworking/AFHTTPRequestOperation.h>
+@import AFNetworking;
 
 // Expose the default headers from AFNetworking's AFHTTPClient
 @interface AFHTTPClient ()

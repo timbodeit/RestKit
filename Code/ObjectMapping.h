@@ -18,7 +18,7 @@
 //  limitations under the License.
 //
 
-#import <RKValueTransformers/RKValueTransformers.h>
+@import RKValueTransformers;
 
 #import "RKObjectMapping.h"
 #import "RKAttributeMapping.h"
